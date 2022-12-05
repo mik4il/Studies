@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+// Aynı hesap makinesini switch-case yapısını kullanarak da yapabilirsiniz. 
 
 int main() {
 	printf("1.Islem Toplama\n2.Islem Cikarma\n3.Islem Bolme\n4.Islem Carpma\n5.Islem Us Alma\n6.Islem Karesini Alma\n7.Islem Kare Kokunu Alma\n\n\n");
